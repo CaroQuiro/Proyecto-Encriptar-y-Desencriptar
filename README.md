@@ -57,5 +57,5 @@ Este proceso te permite manejar tus textos de manera eficiente y práctica, util
 - JavaScript
 
 ## Persona-Desarrolladora del Proyecto
-| [<img src="https://github.com/settings/profile" width=115><br><sub>Carolina Quiroga</sub>](https://github.com/CaroQuiro)
+| [<br><sub>Carolina Quiroga</sub>](https://github.com/CaroQuiro)
 
