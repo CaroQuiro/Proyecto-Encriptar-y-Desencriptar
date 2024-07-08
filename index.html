@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es-co">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Encriptado y Desencriptado</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+    </header>
+
+    <main>
+        <section>
+            <img src="./assets/Logo.png" alt="Logo alura" class="imagen_logo">
+            <section class="Mandar_Mensaje">
+                <textarea id="texto" type="text"  placeholder="Ingrese el texto aqui" class="Mandar_Mensaje_Pedir_Texto"></textarea>
+                <section class="Mandar_Mensaje_Alerta">
+                    <img src="./assets/warning-303768_640.png" alt="Simbolo alerta" class="Mandar_Mensaje_Alerta_img">
+                    <p class="Mandar_Mensaje_Alerta_Mensaje">Solo letras minúsculas y sin acentos</p>
+                </section>
+                <section class="Mandar_Mensaje_Boton">
+                    <button class="Mandar_Mensaje_Boton_Encriptar" onclick="codificarTexto();" id="encriptar">Encriptar</button>
+                    <button class="Mandar_Mensaje_Boton_Desencriptar" onclick="decodificarTexto();" id="desencriptar">Desencriptar</button>
+                </section>
+            </section>
+         </section>
+        <section class="Mostrar_Mensaje">
+            <p id="respuesta_Men" class="Mostrar_Mensaje_Respuesta"></p>
+            <img id="imag_niño" src="./assets/Muñeco.png" alt="Chico viendo a traves de una lupa" class="Mostrar_Mensaje_Img">
+            <h2 id="men_sub" class="Mostrar_Mensaje_subtitulo">Ningún mensaje fue encontrado</h2>
+            <p id="men_info" class="Mostrar_Mensaje_Info">Ingresa el texto que desees encriptar o desencriptar.</p>
+            <button class="Mostrar_Mensaje_boton" id="copiar" onclick="copiarTexto()" >Copiar</button>
+        </section>
+        
+    </main>
+
+    <footer></footer>
+    <script src="app.js" defer></script>
+</body>
+</html>
