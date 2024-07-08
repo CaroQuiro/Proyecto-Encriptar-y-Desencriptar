@@ -7,6 +7,9 @@ El siguiente proyecto es una página web que permite encriptar y desencriptar cu
 - [Descripción](#descripción)
 - [Instalación](#instalación)
 - [Uso](#uso)
+- [Tecnologías utilizadas](#tecnologías-utilizadas)
+- [Persona-Desarrolladora del Proyecto](#personas-desarrolladores)
+
 
 ## Descripción
 
@@ -48,4 +51,11 @@ Para utilizar esta aplicación:
 3. **Copiar texto:** Una vez encriptado o desencriptado, utiliza el botón "Copiar" para copiar el texto resultante al portapapeles y usarlo según necesites.
 
 Este proceso te permite manejar tus textos de manera eficiente y práctica, utilizando las herramientas proporcionadas por la aplicación.
+
+## Tecnologías utilizadas
+
+- JavaScript
+
+## Persona-Desarrolladora del Proyecto
+| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Carolina Quiroga</sub>](https://github.com/CaroQuiro)
 
